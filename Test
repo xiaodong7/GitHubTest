@@ -1,0 +1,8 @@
+ #### 一、配置
+
+```java
+git config --global user.name "xiaodong7"             #用户名
+git config --global user.email "1902458823@qq.com"     #邮箱
+# 查看信息
+git config -l  
+```
